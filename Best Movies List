@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta chorset="UTF-8">
+  <title>Top Movies List</title>
+</head>
+
+<body>
+<h1>Best Movies According to Bruna</h1>
+<h2>My top 3 movies of all-time.</h2>
+<hr/>
+<h3>Avatar</h3>
+<p>A classic, full of action. It has a great and unique story.</p>
+<h3>Dead Poets Society</h3>
+<p>This movie made me start looking at life in a new way.</p>
+<h3>The Holiday</h3>
+<p>It's comforting and beautiful, it presents real romance.</p>
+</body>
+
+</html>
