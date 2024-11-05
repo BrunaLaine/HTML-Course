@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Favourite Paintings</title>
+</head>
+
+<body>
+    <h1>My Favourite Paintings</h1>
+    <p>Here are 3 paintings I love the most.</p>
+
+    <hr/>
+
+    <h2>St Augustine by Philippe de Champaigne (1650)</h2>
+    <img src="https://i.pinimg.com/564x/b6/06/f4/b606f4d1c7f9d2bd1958c36ccab7a1d4.jpg" height="200" alt="St Augustine by Philippe de Champaigne"/>
+    
+    <br/>
+    
+    <h2>Impression, Sunrise by Claude Monet (1872)</h2>
+    <img src="https://i.pinimg.com/564x/47/3d/f6/473df67a4a9a7efc50050ae11529e49c.jpg" height="200" alt="Impression, Sunrise by Claude Monet"/>
+    
+    <br/>
+
+    <h2>Independence or Death by Pedro Américo (1888)</h2>
+    <img src="https://az333960.vo.msecnd.net/images-8/independence-or-death-pedro-americo-1888-7bca5474.jpg" height="200" alt="Independence or Death by Pedro Américo"/>
+</body>
+</html>
